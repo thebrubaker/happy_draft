@@ -35,4 +35,10 @@ return [
 		'secret' => '',
 	],
 
+	'social platform' => [
+		'client_id' => 'your-github-app-id',
+		'client_secret' => 'your-github-app-secret',
+		'redirect' => 'http://your-callback-url',
+	],
+
 ];
